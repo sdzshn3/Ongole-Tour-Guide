@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Ongole Tour Guide</string>
+    <string name="tab_title_1">About Ongole</string>
+    <string name="tab_title_2">Transportation</string>
+    <string name="tab_title_3">Tourist Attraction</string>
+    <string name="tab_title_4">Hotels</string>
+    <string name="action_settings">About</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="ongole_body">
+        Ongole is located in Andhra Pradesh, India.
+        \nCoordinates: 15.506°N 80.049°E\n
+        \nCountry: India
+        \nState: Andhra Pradesh
+        \nDistrict: Prakasam
+        \nPopulation (2011): 20,04,746
+        \nLanguages: Official Telugu
+        \nTime zone IST (UTC+5:30)
+        \nPIN 523001,523002
+        \nTelephone code +91–8592
+        \nVehicle registration AP–27
+        \n\nOngole is a city in Prakasam district of the Indian state of Andhra Pradesh.
+        The city is a municipal corporation and the headquarters of Prakasam district.
+        It is also the mandal headquarters of Ongole mandal in Ongole revenue division.
+        The city is the 13th most populous in the state.
+        Ongole is known for its Ongole cattle, a breed of oxen.
+        This is one of the world\'s major zebu cattle breeds.</string>
+    <string name="ongole_pic">Ongole Pic</string>
+
+    <string name="tourist_attraction_title_1">Kothapatnam Beach</string>
+    <string name="tourist_attraction_subTitle_1">Bay of Bengal</string>
+    <string name="tourist_attraction_address_1">Kothapatnam, Near Ongole</string>
+    <string name="tourist_attraction_place_link_1">https://goo.gl/maps/b7WkW3SiJon</string>
+    <string name="tourist_attraction_phone_number_1">8886093988</string>
+
+    <string name="tourist_attraction_title_2">Mallavaram Dam Reservoir</string>
+    <string name="tourist_attraction_subTitle_2">Gundlakamma River</string>
+    <string name="tourist_attraction_address_2">Near Kolachanakota, Mallavaram, Prakasam Dt.</string>
+    <string name="tourist_attraction_place_link_2">https://goo.gl/maps/2Cax7Bt5o4H2</string>
+    <string name="tourist_attraction_phone_number_2">8500803609</string>
+
+    <string name="tourist_attraction_title_3">Ramatheertham Sagar</string>
+    <string name="tourist_attraction_subTitle_3">Greenery and Nature</string>
+    <string name="tourist_attraction_address_3">Near Chimakurthy</string>
+    <string name="tourist_attraction_place_link_3">https://goo.gl/maps/8gQJU7jfNhA2</string>
+    <string name="tourist_attraction_phone_number_3">NA</string>
+
+    <string name="transport_title_1">Ongole Railway Station</string>
+    <string name="transport_subtitle_1">SCR Main Railway track</string>
+    <string name="transport_address_1">Santhapet, Ongole.</string>
+    <string name="transport_place_link_1">https://goo.gl/maps/v4Ge9pE399L2</string>
+    <string name="transport_phone_number_1">139</string>
+
+    <string name="transport_title_2">Ongole Bus Station</string>
+    <string name="transport_subtitle_2">APSRTC</string>
+    <string name="transport_address_2">Kurnool Road, Pandaripuram, Ongole.</string>
+    <string name="transport_place_link_2">https://goo.gl/maps/4uhLra3WcGP2</string>
+    <string name="transport_phone_number_2">9959225704</string>
+
+    <string name="ongole">Ongole, Andhra Pradesh</string>
+
+    <string name="hotel_title_1">Hotel Kolas</string>
+    <string name="hotel_subTitle_1">Hotel</string>
+    <string name="hotel_address_1">Bhagya Nagar, near Nellore Bus Stand, Ongole</string>
+    <string name="hotel_place_link_1">https://goo.gl/maps/7J2VBLtxrRU2</string>
+    <string name="hotel_phone_number_1">9505213666</string>
+
+    <string name="hotel_title_2">Hotel Sarovar</string>
+    <string name="hotel_subTitle_2">Hotel</string>
+    <string name="hotel_address_2">Behind Ratnamahal, Bhagya Nagar, Ongole</string>
+    <string name="hotel_place_link_2">https://goo.gl/maps/NH7G9927WA92</string>
+    <string name="hotel_phone_number_2">08592284001</string>
+
+    <string name="hotel_title_3">Hotel Mourya</string>
+    <string name="hotel_subTitle_3">Hotel</string>
+    <string name="hotel_address_3">Opposite RTC Bus Stand, Kurnool Road, Ongole</string>
+    <string name="hotel_place_link_3">https://goo.gl/maps/gYcji8guKY82</string>
+    <string name="hotel_phone_number_3">08592235656</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="address">Address</string>
+    <string name="sub_title">Sub Title</string>
+    <string name="ongole_aerial_photo">Ongole aerial photo</string>
+    <string name="image_of_place">image of place</string>
+    <string name="main_title">Main Title</string>
+    <string name="land_mark_icon">land mark icon</string>
+    <string name="phone_icon">phone_icon</string>
+    <string name="phone_number_example">0123456789</string>
+    <string name="open_in_maps">Open in Maps</string>
+    <string name="call">call</string>
+    <string name="share">share</string>
+    <string name="calls_to_that_place">calls to that place</string>
+    <string name="shares_place">shares place</string>
+    <string name="rating_example">4.7</string>
+</resources>
